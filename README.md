@@ -29,6 +29,7 @@ instrucciones suficientes para que sea accesible a todo tipo de persona.
     - import archivos as arch 
     - import registro as reg 
     - import webscrapping as web 
+    - import adicionales as adic
     
 - Librerias externas
 
