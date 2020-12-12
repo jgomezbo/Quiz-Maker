@@ -22,8 +22,8 @@ Información basica para ejecutar el programa:
     - import time
     - import pygame
     - from datetime import datetime
-    - import archivos as arch # Módulo que maneja los archivos
-    - import registro as reg # Módulo que maneja los usuarios y contraseñas
-    - import webscrapping as web # Módulo que maneja información de la web
+    - import archivos as arch 
+    - import registro as reg 
+    - import webscrapping as web 
 
 - Los archivos que estan en las carpetas "archivos_quizmaker", "imagenes", "sonidos" y "codigo_fuente" deben estar tal como se descarga la carpeta "Quiz Maker" para que pueda funcionar el programa correctamente. Ejecutar el que se llama "QuizMaker.py"
