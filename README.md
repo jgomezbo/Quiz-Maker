@@ -43,13 +43,23 @@ instrucciones suficientes para que sea accesible a todo tipo de persona.
 
 # Funcionamiento de la aplicación
 - Pantalla de inicio
-  ![alt tag](https://github.com/jgomezbo/Archivos_Webscraping/blob/main/imagenes/informacion%20en%20limpio.png)
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/inicio.png)
   
 - Menú
   ![alt tag](https://github.com/jgomezbo/Archivos_Webscraping/blob/main/imagenes/informacion%20en%20limpio.png)
   
+- Agrega tus preguntas
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/agregar.png)
+ 
+- Quita preguntas
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/quitar.png)
+  
 - Estadísticas
-  ![alt tag](https://github.com/jgomezbo/Archivos_Webscraping/blob/main/imagenes/informacion%20en%20limpio.png)
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/estadisticas.png)
   
 - Juego selección múltiple
-  ![alt tag](https://github.com/jgomezbo/Archivos_Webscraping/blob/main/imagenes/informacion%20en%20limpio.png)
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/juego.png)
+  
+- Administrar cuentas existentes
+  ![alt tag](https://github.com/jgomezbo/Quiz-Maker/blob/main/imagenes/admin.png)
+
