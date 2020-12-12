@@ -1,0 +1,18 @@
+Quiz Maker es un aplicativo que te permite realizar quices de forma didactica en 
+diferentes presentaciones.
+
+Para poder empezar a usar el aplicativo correctamente, se deben seguir los siguientes pasos:
+
+1). Dar clic en el boton "Preguntas" en el menu.
+2). En la seccion de preguntas puede "agregar" o "quitar" preguntas. Si desea agregar,
+de clic en la opcion "Agregar", posteriormente, ingrese su pregunta, respuesta correcta
+con otras tres (incorrectas), categoria, subcategoria y dificultad.
+3). Para quitar preguntas de clic en la opcion "Quitar", posteriormente seleccione la categoria
+y de pulse en "Refrescar" para que aparescan las preguntas que contiene la categoria. Seleccione.
+Digite el numero de la pregunta y pulse "Eliminar".
+4). De clic en "Empezar" en el menu, a continuacion, seleccione el tipo de quiz
+y que tipo de preguntas quiere que aparescan en al quiz.
+5). De clic en "Jugar" y ¡aprende y disfruta con los quices!
+
+
+Quiz Maker®. Johan Gomez, Luis Chitiva, Daniel Quintero. All rights reserved & copyright © 2020.

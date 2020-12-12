@@ -1,0 +1,14 @@
+PC^2^Los bienes de capital se definen como:^Los bienes producidos que se utilizan en el proceso productivo^El dinero que se necesita para montar un negocio^Los principales causantes de la productividad^Los beneficios que obtienen los empresarios
+PC^3^Cuantos mas bienes sustitutivos tenga un bien:^Mas elastica sera su demanda^Mas rigida sera su demanda^Mayor sera su oferta^Tendera hacia una posicion de monopolio
+HT^1^En que anio se independizo Colombia^1810^1492^1939^1819
+HT^2^En que anio decubrio Colon America^1492^1569^1485^1601
+HT^2^En que anio fue la Segunda Guerra Mundial^1939^1919^1948^1985
+HT^3^Cual era la capital del imperio Inca^Cuzco^Quito^Machu Picchu^Lima
+GF^1^Cual es la capital de Colombia^Bogota^Cartagena^Medellin^Boyaca
+GF^2^Cual de estos paises no tiene acceso al Mar Mediterraneo^Serbia^Eslovenia^Chipre^Egipto
+GF^2^Cual es el rio mas largo del mundo^Nilo^Amazonas^Yangtse^La plata
+GF^3^En que pais estan las ruinas de Esparta^Grecia^Italia^Roma^Mongolia
+FF^1^De quien es la frase, solo se que nada se^Socrates^Descartes^Platon^Hegel
+FF^2^Quien formulo el Principio ontologico de identidad^Parmenides^Kant^Kierkegaard^Aristoteles
+FF^2^Quien tuvo la filosofia de sintesis de filosofias^Hegel^Freud^Kant^Descartes
+FF^3^De quien es la frase, Cogito Ergo Sum^Descartes^Hegel^Kant^Freud

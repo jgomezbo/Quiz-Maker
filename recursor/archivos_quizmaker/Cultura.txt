@@ -1,0 +1,9 @@
+AT^1^Quien pinto la Gioconda^Leonardo da Vinci^Isaac Newton^Maxwell^Leonado Dicaprio
+AT^2^En que siglo nacio Van Gogh^Siglo XIX^Siglo XX^Siglo XVII^Siglo XV
+AT^2^Los estilos principales de las catedrales medievales eran:^gotico y romantico^gotico y barroco^barroco y romantico^ninguna de las anteriores
+AT^3^En que anio pinto Picasso el Guernica^1937^1947^1957^1927
+LT^1^Quien es el autor de Cien anios de soledad^Gabriel Garcia Marquez^Pablo Neruda^Miguel de Cervantes^Jorge Luis Borges
+LT^2^Quien es el autor de la Odisea^Homero^Seneca^Charles Dickens^Shakespeare
+LT^2^Por que el principito abandono su planeta^Sentia que una rosa se aprovechaba de el^El rey le ordeno irse^Se enfermo^Queria conocer la tierra
+LT^3^Cual de estas obras no es de William Shakespeare^Alejandro Magno^Julio Cesar^El suenio de una noche de verano^Hamlet
+LT^1^Cual es el nombre e la profe de PC^Stephanie^Laura^Bibiana^Jenny
