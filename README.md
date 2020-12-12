@@ -13,7 +13,7 @@ instrucciones suficientes para que sea accesible a todo tipo de persona.
 
 # Información basica para ejecutar el programa:
 
-- El programa necesita las siguientes librerías : Tkinter, de esta se usaron: ttk, messagebox. random, time, pygame, urlopen y bs4. Además, se importaron tres módulos propios: archivos, registro y webscrapping
+- El programa necesita las siguientes librerías : Tkinter, de esta se usaron: ttk, messagebox. random, time, pygame, urlopen y bs4. Además, se importaron cuatro módulos propios: archivos, registro, webscrapping y adicionales.
 
 - Ejecutar los siguientes comandos para instalar las librerías:
     - from tkinter import *
