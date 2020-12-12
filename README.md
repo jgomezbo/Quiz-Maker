@@ -40,7 +40,7 @@ instrucciones suficientes para que sea accesible a todo tipo de persona.
 
     - pip install -r requirements.txt
 
-- Los archivos que estan en las carpetas "archivos_quizmaker", "imagenes", "sonidos" y "codigo_fuente" deben estar tal como se descarga la carpeta "Quiz Maker" para que pueda funcionar el programa correctamente. Ejecutar el que se llama "QuizMaker.py"
+- Los archivos que estan en las carpetas "archivos_quizmaker", "imagenes", "sonidos" y "codigo_fuente" deben estar tal como se descargan para que pueda funcionar el programa correctamente. Ejecutar el que se llama "QuizMaker.py"
 
 # Funcionamiento de la aplicación
 - Pantalla de inicio
