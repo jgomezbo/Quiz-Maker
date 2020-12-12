@@ -32,7 +32,7 @@ instrucciones suficientes para que sea accesible a todo tipo de persona.
     
 - Librerias externas
 
-    - bs4: pip install bs4 == 0.0.1
+    - bs4: pip install bs4 == 4.9.3
     - pygame: pip install pygame == 2.0.0
     
 - Ejecutar:
